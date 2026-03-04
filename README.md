@@ -1,12 +1,30 @@
-# Laet osu Skin
+# SwarmCog Laet osu Skin
 
-Personal osu! skin collection with SwarmCog variants.
+A custom osu! skin collection blending aesthetics from two amazing base skins.
 
-## Skins
+## About
 
-- **SwarmCog (Laet)** - Main variant
-- **SwarmCog DT (Laet)** - Double Time optimized
-- **SwarmCog Glass (Laet)** - Transparent glass variant
+SwarmCog is a personalized mod combining elements from:
+- **FREEDOM DiVE REiMAGINED** - [View on BTMC Skins](https://skins.btmc.live/)
+- **Needy Girl Overdose** - [View on osu! Forums](https://osu.ppy.sh/community/forums/topics/1925369?n=1)
+
+This skin features multiple variants optimized for different gameplay scenarios.
+
+## Variants
+
+- **SwarmCog (Laet)** - Main variant with balanced design
+- **SwarmCog DT (Laet)** - Optimized for Double Time plays
+- **SwarmCog Glass (Laet)** - Transparent glass aesthetic variant
 - **SwarmCogExperimental DT (Laet)** - Experimental Double Time version
 
-All skins are .osk files ready to import into osu!.
+## Installation
+
+All files are `.osk` files. Import them directly into osu!:
+1. Download the `.osk` file from releases
+2. Open it with osu! or place it in your `Skins/` folder
+3. Select the skin from the options menu
+
+## Credits
+
+- Base skins by Spoo, BTMC, and JustLiar
+- Modifications by Laet
