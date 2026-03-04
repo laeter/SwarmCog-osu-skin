@@ -7,6 +7,7 @@ A custom osu! skin collection blending aesthetics from two amazing base skins.
 SwarmCog is a personalized mod combining elements from:
 - **FREEDOM DiVE REiMAGINED** - [View on BTMC Skins](https://skins.btmc.live/)
 - **Needy Girl Overdose** - [View on osu! Forums](https://osu.ppy.sh/community/forums/topics/1925369?n=1)
+- **Neuro-sama's Little Gymbag** - [View on osu! Forums](https://osu.ppy.sh/community/forums/topics/1728551?n=1)
 
 This skin features multiple variants optimized for different gameplay scenarios.
 
@@ -26,5 +27,5 @@ All files are `.osk` files. Import them directly into osu!:
 
 ## Credits
 
-- Base skins by Spoo, BTMC, and JustLiar
+- Base skins by Spoo, BTMC, JustLiar, and Neuro-sama
 - Modifications by Laet
