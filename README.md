@@ -28,4 +28,5 @@ All files are `.osk` files. Import them directly into osu!:
 ## Credits
 
 - Base skins by Spoo, BTMC, JustLiar, and REMOL Eks Di
+- Logo design inspired by [Frequence artwork for Neuro-sama](https://x.com/Frequence_/status/1870469303457181915)
 - Modifications by Laet
