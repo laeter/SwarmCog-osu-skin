@@ -4,7 +4,7 @@
 
 A custom osu! skin collection blending aesthetics from amazing base skins, now featuring a highly-polished animated Cyber-Glass health bar.
 
-## 🚀 Latest Version: SwarmCog v2 (Lavabar Edition)
+## 🚀 Latest Version: SwarmCog v2
 **[Download SwarmCog v2 from Releases](https://github.com/laeter/SwarmCog-osu-skin/releases/latest)**
 
 *v2 features a completely overhauled, 30-frame animated 'Cyber-Glass' flowing liquid health bar perfectly tucked into a frosted glass track.*
